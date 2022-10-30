@@ -4,4 +4,4 @@ second change.
 3th change.
 4th change.
 dev 5th change
-6th conflict branchc
+7th conflict master
