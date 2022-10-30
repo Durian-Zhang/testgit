@@ -6,3 +6,4 @@ second change.
 dev 5th change
 7th conflict master create
 work on task2
+task1's work stop
